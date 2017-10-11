@@ -13,6 +13,9 @@
 
 <?php include("nav/nav.php"); ?>
 
+
+<div>
+  <img src="images/ramen.png" alt="ramen"/>
 </div>
 
 <div class="main">
